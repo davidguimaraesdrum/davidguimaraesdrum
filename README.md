@@ -35,18 +35,17 @@
 
 <img align="left" alt="YoTtube" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ_x-WcOorme57_cX1qY1Uq_fZ8eX1k0e0w&usqp=CAU" />
 
-
+<br />
+<br />
 
 ---
 
 <img align="left" alt="douglaswdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum)
-
 
 [linkedin]: (https://www.linkedin.com/in/david-guimarães-1311b834/)
 [email]: mailto:david.guima@hotmail.com
 
 
-<!-- https://github.com/anuraghazra/github-readme-stats#customization-->
+https://github.com/davidguimaraesdrum/github-readme-stats#customization
