@@ -37,9 +37,9 @@
 
 ---
 
-<img align="left" alt="davidguimaraesdrum Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
+<img align="left" alt="davidguimaraesdrum Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=ayu-mirage" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=midnight-purple)](https://github.com/davidguimaraesdrum)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=ayu-mirage)](https://github.com/davidguimaraesdrum)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum)](https://github.com/davidguimaraesdrum)
 
 
