@@ -33,7 +33,7 @@
 ### 📺 YouTube Channel
 [Youtube]:(https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber)
 
-<img align="left" alt="YoTtube" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="YoTtube" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ_x-WcOorme57_cX1qY1Uq_fZ8eX1k0e0w&usqp=CAU" />
 
 
 
