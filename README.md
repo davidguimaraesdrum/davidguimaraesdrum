@@ -1,8 +1,5 @@
 ### Olá, me chamo David 👋
 
-<br />
----
-
 ## Sou Analista de Suporte Pleno HelpDesk e Músico.
 - 🌱 Atualmente estou estudando HTML / CSS.
 - ⚡ Objetivo: Me tornar desenvolvedor front-end e back-end. (JavaScript / React)
