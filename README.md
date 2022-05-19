@@ -1,4 +1,4 @@
-### Hi there, I'm Douglas 👋
+### Hi there, I'm David 👋
 
 ## I'm a Husband, Father and I love technology!
 - 🌱 I’m currently learning C# and React.
@@ -41,10 +41,10 @@
 
 ---
 
-<img align="left" alt="douglaswdias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=douglaswdias&show_icons=true&theme=radical" />
+<img align="left" alt="douglaswdias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical)](https://github.com/douglaswdias)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum)
 
 
 [linkedin]: https://www.linkedin.com/in/douglas-dias-83031b29/
