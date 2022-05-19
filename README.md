@@ -1,8 +1,8 @@
-### Hi there, I'm David 👋
+### Olá, me chamo David Guimarães 👋
 
-## Sou Analista de Suporte Pleno e Músico.
+## Sou Analista de Suporte Pleno HelpDesk e Músico.
 - 🌱 Atualmente estou estudando HTML / CSS.
-- ⚡ Objetivo de virar desenvolvedor front-end e back-end.
+- ⚡ Objetivo: Me tornar desenvolvedor front-end e back-end. (JavaScript / React)
 
 <br />
 
@@ -30,15 +30,15 @@
 
 <!-- --- -->
 
-<!-- ### 📺 YouTube Channel -->
-<!-- YOUTUBE:START -->
-<!-- (https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber) -->
-<!-- YOUTUBE:END -->
+### 📺 YouTube Channel
+YOUTUBE:START
+(https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber)
+YOUTUBE:END
 
 
 ---
 
-<img align="left" alt="douglaswdias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
+<img align="left" alt="douglaswdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum)
