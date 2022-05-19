@@ -31,6 +31,8 @@
 
 <br />
 
+<br />
+
 ---
 
 <img align="left" alt="davidguimaraesdrum Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=ayu-mirage" />
