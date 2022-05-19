@@ -1,15 +1,15 @@
 ### Hi there, I'm David 👋
 
-## I'm a Husband, Father and I love technology!
-- 🌱 I’m currently learning C# and React.
-- ⚡ Fun fact: I love heavy metal and video games!
+## Sou Analista de Suporte Pleno e Músico.
+- 🌱 Atualmente estou estudando HTML / CSS.
+- ⚡ Objetivo de virar desenvolvedor front-end e back-end.
 
 <br />
 
-### Connect with me:
+### Conexões:
 
-[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" />][email]
+[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" />][email]
 
 <br />
 <br />
@@ -20,11 +20,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn4.iconfinder.com/data/icons/free-social-media-icons-1/200/1469470492_Git-512.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/social-media-and-logos-8/32/social_media_online_logo_github-512.png" />
-<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
-<img align="left" alt="CSharp" width="26px" src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-csharp-512.png" />
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 <!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
@@ -47,8 +44,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum)
 
 
-[linkedin]: [https://www.linkedin.com/in/douglas-dias-83031b29/](https://www.linkedin.com/in/david-guimarães-1311b834/)
-[email]: mailto:ddavid.guima@hotmail.com
+[linkedin]: (https://www.linkedin.com/in/david-guimarães-1311b834/)
+[email]: mailto:david.guima@hotmail.com
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#customization-->
