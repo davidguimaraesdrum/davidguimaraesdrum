@@ -1,5 +1,8 @@
 ### Olá, me chamo David 👋
 
+<br />
+---
+
 ## Sou Analista de Suporte Pleno HelpDesk e Músico.
 - 🌱 Atualmente estou estudando HTML / CSS.
 - ⚡ Objetivo: Me tornar desenvolvedor front-end e back-end. (JavaScript / React)
@@ -46,6 +49,3 @@
 
 [linkedin]: (https://www.linkedin.com/in/david-guimarães-1311b834/)
 [email]: mailto:david.guima@hotmail.com
-
-
-https://github.com/davidguimaraesdrum/github-readme-stats#customization
