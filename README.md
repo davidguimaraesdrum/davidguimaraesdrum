@@ -32,9 +32,6 @@
 
 ### 📺 YouTube Channel
 [Youtube]:(https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber)
-
-<a href="www.google.com](https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ_x-WcOorme57_cX1qY1Uq_fZ8eX1k0e0w&usqp=CAU" class="media-object  img-responsive img-thumbnail"></a>/>
-
 <img align="left" alt="YoTtube" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ_x-WcOorme57_cX1qY1Uq_fZ8eX1k0e0w&usqp=CAU" />
 
 <br />
