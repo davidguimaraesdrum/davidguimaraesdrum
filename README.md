@@ -8,7 +8,7 @@
 
 ### Conexões:
 
-[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://img.icons8.com/ios/500/linkedin.png" />][linkedin]
+[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://www.nicepng.com/png/full/27-277988_linkedin-logo-png-branco.png" />][linkedin]
 [<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" />][email]
 
 <br />
