@@ -43,7 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical)](https://github.com/douglaswdias)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum)](https://github.com/davidguimaraesdrum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/david-guimarães-1311b834
