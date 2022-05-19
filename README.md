@@ -4,8 +4,6 @@
 - 🌱 Atualmente estou estudando HTML / CSS.
 - ⚡ Objetivo: Me tornar desenvolvedor front-end e back-end. (JavaScript / React)
 
-<br />
-
 ### Conexões:
 
 [<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://www.nicepng.com/png/full/27-277988_linkedin-logo-png-branco.png" />][linkedin]
