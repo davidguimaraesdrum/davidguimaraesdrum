@@ -31,8 +31,8 @@
 <!-- --- -->
 
 ### 📺 YouTube Channel
-[Youtube]:(https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber)
-<img align="left" alt="YoTtube" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ_x-WcOorme57_cX1qY1Uq_fZ8eX1k0e0w&usqp=CAU" />
+[Youtube]: https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber
+<img align="left" alt="Youtube" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ_x-WcOorme57_cX1qY1Uq_fZ8eX1k0e0w&usqp=CAU"/> [youtube]
 
 <br />
 <br />
@@ -45,3 +45,4 @@
 
 [linkedin]: https://www.linkedin.com/in/david-guimarães-1311b834
 [email]: mailto:david.guima@hotmail.com
+[youtube]: https://www.youtube.com/channel/UCa3poBw_0uQt6O4hexk6j1w
