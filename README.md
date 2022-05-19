@@ -37,9 +37,9 @@
 
 ---
 
-<img align="left" alt="douglaswdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
+<img align="left" alt="davidguimaraesdrum Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/davidguimaraesdrum=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/david-guimarães-1311b834
 [email]: mailto:david.guima@hotmail.com
 [youtube]: https://www.youtube.com/channel/UCa3poBw_0uQt6O4hexk6j1w
