@@ -31,8 +31,7 @@
 <!-- --- -->
 
 ### 📺 YouTube Channel
-[Youtube]: https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber
-<img align="left" alt="Youtube" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ_x-WcOorme57_cX1qY1Uq_fZ8eX1k0e0w&usqp=CAU"/> [youtube]
+[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc" />][youtube]
 
 <br />
 <br />
