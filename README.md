@@ -39,7 +39,7 @@
 
 <img align="left" alt="davidguimaraesdrum Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/douglaswdias)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical)](https://github.com/douglaswdias)
 
