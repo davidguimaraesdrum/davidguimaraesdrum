@@ -38,6 +38,7 @@
 ---
 
 <img align="left" alt="davidguimaraesdrum Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidguimaraesdrum&show_icons=true&theme=ayu-mirage" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=ayu-mirage)](https://github.com/davidguimaraesdrum)
 
 [linkedin]: https://www.linkedin.com/in/david-guimarães-1311b834
