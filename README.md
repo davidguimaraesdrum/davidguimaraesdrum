@@ -1,4 +1,4 @@
-### Olá, me chamo David Guimarães 👋
+### Olá, me chamo David 👋
 
 ## Sou Analista de Suporte Pleno HelpDesk e Músico.
 - 🌱 Atualmente estou estudando HTML / CSS.
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Programas e Linguagens:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,6 +32,8 @@
 
 ### 📺 YouTube Channel
 [Youtube]:(https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber)
+
+<img align="left" alt="YoTtube" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
 
