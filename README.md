@@ -30,8 +30,8 @@
 <br />
 <!-- --- -->
 
-### 📺 YouTube:
-[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="30px" src="https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc" />][youtube] 
+### YouTube:
+[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="35px" src="https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc" />][youtube] 
 
 <br />
 <br />
