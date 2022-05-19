@@ -43,5 +43,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum)
 
-[linkedin]: (https://www.linkedin.com/in/david-guimarães-1311b834)
+[linkedin]: https://www.linkedin.com/in/david-guimarães-1311b834
 [email]: mailto:david.guima@hotmail.com
