@@ -8,7 +8,7 @@
 
 ### Conexões:
 
-[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://img.icons8.com/ios/500/linkedin.png" />][linkedin]
 [<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" />][email]
 
 <br />
@@ -45,3 +45,6 @@
 [linkedin]: https://www.linkedin.com/in/david-guimarães-1311b834
 [email]: mailto:david.guima@hotmail.com
 [youtube]: https://www.youtube.com/channel/UCa3poBw_0uQt6O4hexk6j1w
+
+
+
