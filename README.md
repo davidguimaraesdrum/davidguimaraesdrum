@@ -12,7 +12,6 @@
 [<img align="left" alt="davidguimaraesdrum | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" />][email]
 
 <br />
-<br />
 
 ### Programas e Linguagens:
 
@@ -26,13 +25,11 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
-<br />
 <!-- --- -->
 
 <!-- ### YouTube:
 [<img align="left" alt="davidguimaraesdrum | LinkedIn" width="35px" src="https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc" />][youtube]  -->
 
-<br />
 <br />
 
 ---
