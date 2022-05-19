@@ -47,8 +47,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidguimaraesdrum&theme=radical)](https://github.com/davidguimaraesdrum)
 
 
-[linkedin]: https://www.linkedin.com/in/douglas-dias-83031b29/
-[email]: mailto:douglas.wdias@hotmail.com
+[linkedin]: [https://www.linkedin.com/in/douglas-dias-83031b29/](https://www.linkedin.com/in/david-guimarães-1311b834/)
+[email]: mailto:ddavid.guima@hotmail.com
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#customization-->
